@@ -1,0 +1,1 @@
+-e1.Comprar comida\n2.Hacer la colada\n3Estudiar para el examen\n4.quedar con campanella
